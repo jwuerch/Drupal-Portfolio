@@ -195,7 +195,7 @@ html[xmlns] .slides {display: block;}
 .no-js .slides > li:first-child {display: block;}
 /* Homepage
 ================================================== */
-#featured-slider-wrap { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
+#featured-slider-wrap { display:none; margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
 #featured-slider { position: relative; background: #222; min-height: 60px; }
 #featured-slider .featured-slider-slide { position: relative; }
 #featured-slider .featured-slider-caption { position: absolute; bottom: 0; left: 0; width: 100%; background: #000; background: rgba(0,0,0,0.8); color: #999; padding: 20px; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }

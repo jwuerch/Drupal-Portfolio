@@ -218,7 +218,7 @@ $databases = array (
     'default' =>
     array (
       'database' => 'wuerch_portfolio',
-      'username' => 'admin',
+      'username' => 'jason_admin',
       'password' => 'admin',
       'host' => '127.0.0.1',
       'port' => '8889',
