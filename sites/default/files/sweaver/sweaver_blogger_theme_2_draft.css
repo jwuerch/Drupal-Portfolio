@@ -1,0 +1,21 @@
+.field-item p {
+  font-family: 'Comic Sans MS',Cursive;
+  font-weight: normal;
+  background-image: none;
+}
+
+.site-text-logo a {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: #31c5e6;
+  border-right-color: #31c5e6;
+  border-bottom-color: #31c5e6;
+  border-left-color: #31c5e6;
+  border-left-width: 1px;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-top-width: 1px;
+}
+
