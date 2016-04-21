@@ -16,4 +16,3 @@ features[field_instance][] = node-todotoday_task-field_status
 features[node][] = todotoday_task
 features[views_view][] = todotoday_list
 features_exclude[dependencies][ctools] = ctools
-project path = sites/all/modules/custom/todotoday
